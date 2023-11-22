@@ -1,0 +1,1 @@
+Notes: * operator represents each element individually listed eg. in a zip function
